@@ -2,8 +2,6 @@
 
 ## 📊 Статистика
 
-## 📊 Статистика
-
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maryplanner&show_icons=true&hide_rank=true&hide=issues,contribs)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maryplanner&layout=compact&langs_count=6)
