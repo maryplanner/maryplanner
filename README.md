@@ -72,21 +72,20 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
+<!-- [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
 [<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png) --> 
 
 <br>
 
 ## 🎒 Образование
 [<img src="/diplom_junior.png" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png](https://github.com/maryplanner/maryplanner/blob/main/diplom_junior.png?raw=true))
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
+<!--[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) --> 
 
-<br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:peterandmom@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mary_planner)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
