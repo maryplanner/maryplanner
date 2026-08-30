@@ -79,8 +79,9 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom_junior.png" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png](https://github.com/maryplanner/maryplanner/blob/main/diplom_junior.png?raw=true))
-<!--[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) --> 
+[<img src="/diplom_junior.png" width="280px" hspace="10px" alt="Сертификат»">]([https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png](https://github.com/maryplanner/maryplanner/blob/main/diplom_junior.png?raw=true))
+[<img src="/diplom_univer.jpg" width="280px" hspace="10px" alt="Диплом»">]([https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png](https://github.com/maryplanner/maryplanner/blob/main/diplom_univer.jpg?raw=true))
+<!--[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) diplom_univer.jpg --> 
 
 <br>
 
