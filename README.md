@@ -2,9 +2,11 @@
 
 ## 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryplanner&show_icons=true&hide_rank=true&hide=issues,contribs&locale=en)
+## 📊 Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryplanner&layout=compact&langs_count=6)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maryplanner&show_icons=true&hide_rank=true&hide=issues,contribs)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maryplanner&layout=compact&langs_count=6)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
