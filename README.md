@@ -86,6 +86,10 @@
 
 <a href="https://github.com/maryplanner/maryplanner/blob/main/diplom_univer.jpg">
   <img src="/diplom_univer.jpg" height="280px" hspace="10px" alt="Диплом">
+</a> 
+
+<a href="https://github.com/maryplanner/maryplanner/blob/main/diplom_univer.jpg">
+  <img src="/diplom_qa.png" height="280px" hspace="10px" alt="Диплом">
 </a>
 <!--[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png) diplom_univer.jpg --> 
 
